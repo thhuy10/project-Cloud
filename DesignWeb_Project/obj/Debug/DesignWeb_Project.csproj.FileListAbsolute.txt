@@ -1,0 +1,387 @@
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\ApplicationInsights.config
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\csc.exe
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\vbc.exe
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll.config
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.pdb
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\PagedList.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\WebGrease.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.pdb
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\PagedList.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.pdb
+D:\ASP\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.xml
+D:\ASP\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.dll
+D:\ASP\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.pdb
+D:\ASP\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csprojResolveAssemblyReference.cache
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\ApplicationInsights.config
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\csc.exe
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Collections.Immutable.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\vbc.exe
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe.config
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll.config
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.pdb
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.Web.Infrastructure.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\WebGrease.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.pdb
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.pdb
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.xml
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csprojAssemblyReference.cache
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csproj.CoreCompileInputs.cache
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csproj.CopyComplete
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.dll
+E:\Web\New folder (3)\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.pdb
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\ApplicationInsights.config
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\csc.exe
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\vbc.exe
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll.config
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.pdb
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\WebGrease.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.pdb
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.pdb
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.xml
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csprojAssemblyReference.cache
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csproj.CopyComplete
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.dll
+D:\Study\3-I\LT Web\Samshop_full\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.pdb
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\ApplicationInsights.config
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\csc.exe
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Collections.Immutable.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\vbc.exe
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe.config
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll.config
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.pdb
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.Web.Infrastructure.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\WebGrease.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.pdb
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.pdb
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.xml
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csprojAssemblyReference.cache
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csproj.CopyComplete
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.dll
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.pdb
+E:\Công nghệ phần mềm\Samshop_full\DesignWeb_Project\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csproj.CoreCompileInputs.cache
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\ApplicationInsights.config
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\csc.exe
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\vbc.exe
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll.config
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.pdb
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\PagedList.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\WebGrease.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.pdb
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\PagedList.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.pdb
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.xml
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csprojAssemblyReference.cache
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csproj.CoreCompileInputs.cache
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csproj.CopyComplete
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.dll
+D:\Study\HKII-3\CNPM\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.pdb
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\ApplicationInsights.config
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\csc.exe
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\vbc.exe
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll.config
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\DesignWeb_Project.pdb
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\PagedList.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\WebGrease.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\CKFinder.pdb
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\EntityFramework.SqlServer.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.Web.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.ApplicationInsights.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\PagedList.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\PagedList.Mvc.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Helpers.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Mvc.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Optimization.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.Razor.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Deployment.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\System.Web.WebPages.Razor.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Antlr3.Runtime.pdb
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\bin\Newtonsoft.Json.xml
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csprojAssemblyReference.cache
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csproj.CoreCompileInputs.cache
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.csproj.CopyComplete
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.dll
+D:\Study\HKII-3\CNPM\Final\DesignWeb_Project\DesignWeb_Project\obj\Debug\DesignWeb_Project.pdb
